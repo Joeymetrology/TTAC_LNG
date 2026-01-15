@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://Joeymetrology.github.io/Joeymetrology",
+  "homepage": "https://TTAC_LNG.github.io/Joeymetrology",
   "scripts": {
     "dev:client": "vite --host --port 3000",
     "dev": "pnpm dev:client",
